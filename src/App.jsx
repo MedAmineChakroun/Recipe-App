@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Search from "./components/Search";
-import FoodList from "./components/foodList.jsx";
+import FoodList from "./components/FoodList.jsx";
 import Nav from "./components/Nav.jsx";
 import styles from "./App.module.css";
 import Container from "./components/Container.jsx";

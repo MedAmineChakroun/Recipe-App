@@ -1,0 +1,14 @@
+.nav {
+  background-color: #e85d04;
+  color: white;
+  font-family: sans-serif;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 30px 30px;
+}
+.title {
+  margin: 0;
+}

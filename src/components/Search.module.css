@@ -1,0 +1,13 @@
+.searchInputDiv {
+  margin: 20px auto;
+  width: 300px;
+  position: relative;
+}
+.searchInput {
+  border: none;
+  border-bottom: 1px solid #e3e4dc;
+  padding: 10px 20px;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+}
